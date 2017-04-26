@@ -41,3 +41,8 @@ a.icon {
 ul > li:last-child > a.icon {
   margin-right: 0px;
 }
+.links li a, .links li i {
+  vertical-align: middle;
+  display: inline-flex;
+  font-size: 1.25em;
+}
